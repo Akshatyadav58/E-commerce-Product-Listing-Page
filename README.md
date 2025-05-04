@@ -1,12 +1,12 @@
 # E-commerce-Product-Listing-Page
-Responsive e-commerce app using React, TypeScript, and Tailwind CSS with product listings, cart, wishlist, and user auth powered by FakeStoreAPI. Built for performance, clean code, and a smooth user experience.
+
 E-Commerce Web App
 A full-featured e-commerce web application built with React 18, TypeScript, and Vite. This app includes product listings, filtering, sorting, a shopping cart, wishlist management, and secure user authentication. It’s designed with a responsive UI using Tailwind CSS for a smooth user experience across devices.
 
-🔗 Live Project Link
+# Live Project Link
 View Live Project - https://incandescent-fudge-2efcea.netlify.app/
 
-Features
+# Features
 Product Management
 
 Product listing with filtering and sorting options
@@ -41,7 +41,7 @@ Integrated with FakeStoreAPI for product data
 
 Custom pricing and category filtering logic
 
-Technologies Used
+# Technologies Used
 React 18 – JavaScript library for building user interfaces
 
 TypeScript – Type-safe JavaScript for better code reliability
